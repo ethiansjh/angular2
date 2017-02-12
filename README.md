@@ -1,1 +1,1 @@
-# angular2
+# angular2 practice Pluralsight by John Papa
